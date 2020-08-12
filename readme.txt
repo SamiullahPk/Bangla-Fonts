@@ -20,7 +20,7 @@ Embeds Bangla fonts in your site for a beautiful view of Bangla text. This plugi
     }
 
 = Credits =
-* Developer: [M.A. IMRAN](http://facebook.com/imran2w)
+* Developer: [M.A. IMRAN](http://facebook.com/SamiullahPk71)
 * E-Mail: samiullahpk71@gmail.com
 
 
