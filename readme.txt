@@ -20,7 +20,7 @@ Embeds Bangla fonts in your site for a beautiful view of Bangla text. This plugi
     }
 
 = Credits =
-* Developer: [M.A. IMRAN](http://facebook.com/SamiullahPk71)
+* Developer: [Samiullah Pk](http://facebook.com/SamiullahPk71)
 * E-Mail: samiullahpk71@gmail.com
 
 
@@ -47,7 +47,7 @@ Embeds Bangla fonts in your site for a beautiful view of Bangla text. This plugi
 
 * Method 1:
 1. Navigate to: Plugins -> Add new -> Search.
-2. Search for "Bangla Web Fonts".
+2. Search for "Bangla Fonts".
 3. Install and activate plugin.
 4. Done.
 
