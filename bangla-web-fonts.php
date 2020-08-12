@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Bangla Web Fonts
-Plugin URI: http://xhostbd.com/
+Plugin Name: Bangla Fonts
+Plugin URI: https://fb.com/SamiullahPk71
 Description: Enables bangla web fonts.
 Author: M.A. IMRAN
 Version: 1.4
-Author URI: http://facebook.com/imran2w
+Author URI: http://facebook.com/SamiullahPk71
 */
 
 /*
