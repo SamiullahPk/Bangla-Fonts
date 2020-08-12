@@ -1,5 +1,5 @@
-=== Bangla Web Fonts ===
-Contributors: imran2w
+=== Bangla Fonts ===
+Contributors: Samiullah Pk
 Developer link: http://facebook.com/imran2w
 Tags: Bangla, Bengali, Bangla Font, Bangla Web Font, SolaimanLipi
 Requires at least: 3.0
