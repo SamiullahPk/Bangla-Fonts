@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: Bangla Fonts
-Plugin URI: https://fb.com/SamiullahPk71
-Description: Enables bangla web fonts.
-Author: M.A. IMRAN
+Plugin Name: WordPress Bangla Font
+Plugin URI: https://github.com/SamiullahPk/WordPress-Bangla-Font
+Description: Enables WordPress bangla font.
+Author: Samiullah Pk
 Version: 1.4
 Author URI: http://facebook.com/SamiullahPk71
 */
@@ -16,7 +16,7 @@ This program is free software; you can redistribute it and/or modify it under th
 
 	defined( 'ABSPATH' ) or die( 'Stop! You can not do this!' );
 	
-	function embed_bangla_font() {
+	function embed_wordpress_bangla_font() {
 		print(
 			'<link href="'.plugins_url( 'solaiman-lipi/font.css', __FILE__ ).'" rel="stylesheet">'
 		);
@@ -30,6 +30,6 @@ This program is free software; you can redistribute it and/or modify it under th
 	<?php
 	}
 	
-	add_action('wp_head', 'embed_bangla_font');
+	add_action('wp_head', 'embed_wordpress_bangla_font');
 	
 	?>
