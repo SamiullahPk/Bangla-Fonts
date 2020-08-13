@@ -1,7 +1,7 @@
-=== Bangla Fonts ===
+=== WordPress Bangla Font ===
 Contributors: Samiullah Pk
 Developer link: http://facebook.com/SamiullahPk71
-Tags: Bangla, Bengali, Bangla Font, Bangla Web Font, SolaimanLipi
+Tags: Bangla, Bengali, WordPress Bangla Font, Bangla Font, SolaimanLipi
 Requires at least: 3.0
 Tested up to: 5.4
 Stable tag: trunk
@@ -9,7 +9,7 @@ Stable tag: trunk
 Enables Bangla fonts for wordpress site.
 
 == Description == 
-Embeds Bangla fonts in your site for a beautiful view of Bangla text. This plugin is able to show the fonts as we usually see and use in text books irrespectible of all devices & browsers.
+Embeds Bangla font in your WordPress site for a beautiful view of Bangla text. This plugin is able to show the fonts as we usually see and use in text books irrespectible of all devices & browsers.
 
 = Usage =
 - Simply install and activate the plugin it will try to embed bangla web font automatically.
